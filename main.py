@@ -26,3 +26,4 @@ for i in range(n+1):
         break
     print(sp[i],((sp[i] - a) * d) / kl)
 input()
+print('KO')
